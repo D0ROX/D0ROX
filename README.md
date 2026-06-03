@@ -1,4 +1,3 @@
-html
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
@@ -47,7 +46,10 @@ html
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" height="40" alt="database logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
@@ -69,11 +71,11 @@ html
 ###
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=D0ROX&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=D0ROX&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D0ROX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas Gerais" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=D0ROX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" height="180" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0ROX&layout=compact&langs_count=5&theme=tokyonight&cache_seconds=1800" alt="Linguagens mais usadas" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0ROX&layout=compact&langs_count=5&theme=tokyonight" alt="Linguagens mais usadas" height="180" />
 </p>
