@@ -1,5 +1,6 @@
+html
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
@@ -10,57 +11,69 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danniel-eduardo-dorox-171381291/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   
   <a href="mailto:dannielza16@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná (UFPR). Atualmente, sou estagiário de TI na Secretaria Municipal de Infraestrutura (SMATI) na Prefeitura de Curitiba. Meu foco principal é o desenvolvimento Backend com <b>Java</b> e <b>C#</b>, além de experiência com SQL e tecnologias Frontend como Angular.</p>
+<p align="left">
+  Estudante de Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná (UFPR).
+  Atualmente, sou estagiário de TI na Secretaria Municipal de Infraestrutura (SMATI) na Prefeitura de Curitiba.
+  Meu foco principal é o desenvolvimento Backend com <b>Java</b> e <b>C#</b>, além de experiência com bancos de dados relacionais, SQL, Angular, TypeScript e estudos em Python para automação e análise de dados.
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"  alt="mysql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" height="40" alt="database logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
 </div>
 
 ###
 
-### 🔥 My Stats
+<h3 align="left">🔥 My Stats</h3>
+
+###
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=D0ROX&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=D0ROX&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=D0ROX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Estatísticas Gerais" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=D0ROX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Estatísticas Gerais" height="180" />
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D0ROX&layout=compact&langs_count=5&theme=tokyonight&v=1" alt="Linguagens mais usadas" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0ROX&layout=compact&langs_count=5&theme=tokyonight&cache_seconds=1800" alt="Linguagens mais usadas" height="180" />
 </p>
